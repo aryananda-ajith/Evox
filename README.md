@@ -102,47 +102,25 @@ For Software:
 
 # Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Dream Tonight landing screen featuring the magical midnight sky, glowing moon, animated stars, and the "Predict My Dream" button.*
+<img width="1896" height="1035" alt="Screenshot 2026-09-12 032540" src="https://github.com/user-attachments/assets/f874db78-e2d0-463b-9e3a-ce5632638310" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Dream setup screen where the user enters their name, selects their mood, and optionally sends a message to the Dream Machine.*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Dream prediction result showing the generated dream, fake probability, dream category, and cinematic dream environment.*
+<img width="1901" height="1036" alt="Screenshot 2026-09-12 032604" src="https://github.com/user-attachments/assets/62143eaa-0d00-4164-84b3-d0dea2190700" />
+
+
+<img width="1902" height="937" alt="image" src="https://github.com/user-attachments/assets/372f3c22-bf6c-4beb-99d2-1460e5d6dfec" />
+
 
 # Diagrams
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/123b7439-93a3-4b69-b3f5-b68d09118b32" />
 
-![Workflow](Add your workflow/architecture diagram here)
-*Workflow showing the complete Dream Tonight experience from entering user details and subconscious scanning to dream prediction and sleep mode.*
-
-For Hardware:
-
-# Schematic & Circuit
-
-![Circuit](Add your circuit diagram here)
-*No physical circuit is required for this software-only project.*
-
-![Schematic](Add your schematic diagram here)
-*System architecture of the browser-based Dream Tonight application.*
-
-# Build Photos
-
-![Components](Add photo of your components here)
-*Laptop, keyboard, mouse, and display used for developing and testing the Dream Tonight website.*
-
-![Build](Add photos of build process here)
-*Development process showing the creation, testing, animation refinement, and debugging of the Dream Tonight application.*
-
-![Final](Add photo of final product here)
-*Final Dream Tonight website running in the browser with its cinematic dream interface.*
 
 ### Project Demo
 
 # Video
 
-[Add your demo video link here]
-*The demo demonstrates the complete Dream Tonight experience, including entering user details, selecting a mood, the fake subconscious scan, cinematic dream reveal, dream prediction, and sleep mode.*
+
+
 
 # Additional Demos
 
